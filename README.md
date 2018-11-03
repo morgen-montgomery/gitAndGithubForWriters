@@ -1,2 +1,2 @@
 # gitAndGithubForWriters
-Course by Peter Gruenbaum for technical writing.
+Course by Peter Gruenbaum on git and GitHub for technical writers.
